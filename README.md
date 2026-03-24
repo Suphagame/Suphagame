@@ -49,15 +49,15 @@ I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University I
 
 🏆 Awards & Activities
 
-- **Competitor: Startup Thailand League 2025
-- **Participant: Thailand Inventors' Day 2026
-- **Student Committee Member: Received a certificate of recognition (2024)
-- **Seminars: "ERP for digital business development" & "Cyberbullying: Law and Ethics perspective view"
-- **Experience: Part-time Customer Service at Mixue (Trained in service mind and multitasking)
+- Competitor: Startup Thailand League 2025
+- Participant: Thailand Inventors' Day 2026
+- Student Committee Member: Received a certificate of recognition (2024)
+- Seminars: "ERP for digital business development" & "Cyberbullying: Law and Ethics perspective view"
+- Experience: Part-time Customer Service at Mixue (Trained in service mind and multitasking)
 
 ---
 
 📫 How to reach me
-- **Email: Supakorn36594@gmail.com
-- **Phone: 098-826-5167
-- **Line/Social: Supakorn_eup
+- Email: Supakorn36594@gmail.com
+- Phone: 098-826-5167
+- Line/Social: Supakorn_eup
