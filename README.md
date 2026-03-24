@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Suphakorn Insuwan (Game) 👋
 
-<!--
-**Suphagame/Suphagame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Aspiring Programmer & Software Tester | 3rd Year Computer Science Student
 
-Here are some ideas to get you started:
+I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I am highly motivated, enthusiastic about developing high-quality software, and currently seeking a **Co-operative Education (Internship)** opportunity in **Programmer** or **Software Tester** roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+- **Bachelor of Science in Computer Science**
+  *Huachiew Chalermprakiet University* (Currently in 3rd Year)
+- **High School (Arts-Math)**
+  *Bangpleeratbamrung School*
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Programming Languages**
+- JavaScript | TypeScript | Node.js (Basic)
+- Python | Java | C 
+- HTML | CSS
+
+**Frameworks & Libraries**
+- React | Next.js
+- Tailwind CSS | Bootstrap 5
+
+**Databases**
+- SQL | MongoDB
+
+**Testing & API Tools**
+- Playwright (Automated Testing - Basic)
+- Postman (API Testing)
+
+**Languages**
+- Thai (Native) | English (Conversational) | Japanese (Basic)
+
+---
+
+### 🚀 Highlight Projects
+
+* 🚗 **Smart License Plate Scanner & Barrier System** *(ระบบสแกนป้ายทะเบียนรถและไม้กั้นอัจฉริยะ)*
+* 🧺 **Automatic Coin Laundry System** *(ระบบเครื่องซักผ้าหยอดเหรียญอัตโนมัติ)*
+* ⚡ **IoT Reaction Machine** *(พัฒนาและต่อยอดเครื่อง Reaction สำหรับโปรเจค IOT)*
+
+*(หมายเหตุ: แนะนำให้เพิ่ม Link ไปยัง Repository ของแต่ละโปรเจค หรืออธิบายเทคโนโลยีที่ใช้ในแต่ละโปรเจคเพิ่มเติมสั้นๆ)*
+
+---
+
+### 🏆 Awards & Activities
+
+- **Competitor:** Startup Thailand League 2025
+- **Participant:** Thailand Inventors' Day 2026
+- **Student Committee Member:** Received a certificate of recognition (2024)
+- **Seminars:** "ERP for digital business development" & "Cyberbullying: Law and Ethics perspective view"
+- **Experience:** Part-time Customer Service at Mixue (Trained in service mind and multitasking)
+
+---
+
+### 📫 How to reach me
+- **Email:** Supakorn36594@gmail.com
+- **Phone:** 098-826-5167
+- **Line/Social:** Supakorn_eup
