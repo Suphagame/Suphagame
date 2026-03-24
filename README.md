@@ -49,8 +49,6 @@ Internship Interests
 * 🧺 Automatic Coin Laundry System (ระบบเครื่องซักผ้าหยอดเหรียญอัตโนมัติ)
 * ⚡ IoT Reaction Machine (พัฒนาและต่อยอดเครื่อง Reaction สำหรับโปรเจค IOT)
 
-(หมายเหตุ: แนะนำให้เพิ่ม Link ไปยัง Repository ของแต่ละโปรเจค หรืออธิบายเทคโนโลยีที่ใช้ในแต่ละโปรเจคเพิ่มเติมสั้นๆ)
-
 ---
 
 🏆 Awards & Activities
