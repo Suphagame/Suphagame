@@ -14,6 +14,12 @@ I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University I
 
 ---
 
+Internship Interests
+- Software tester
+- Programming
+
+---
+
 🛠️ Skills & Technologies
 
 **Programming Languages**
