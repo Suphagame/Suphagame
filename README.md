@@ -46,8 +46,8 @@ Internship Interests
 🚀 Highlight Projects
 
 * 🚗 Smart License Plate Scanner & Barrier System (ระบบสแกนป้ายทะเบียนรถและไม้กั้นอัจฉริยะ)
-* 🧺 Automatic Coin Laundry System (ระบบเครื่องซักผ้าหยอดเหรียญอัตโนมัติ)
-* ⚡ IoT Reaction Machine (พัฒนาและต่อยอดเครื่อง Reaction สำหรับโปรเจค IOT)
+* 🧺 Hcu report accident (ระบบแจ้งเตือนอุบัติเหตุภายในมหาวิทยาลัย)
+* ⚡ Project Sudoku 2D Game
 
 ---
 
@@ -64,4 +64,4 @@ Internship Interests
 📫 How to reach me
 - Email: Supakorn36594@gmail.com
 - Phone: 098-826-5167
-- Line/Social: Supakorn_eup
+- Instagram: Supakorn_eup
